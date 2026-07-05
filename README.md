@@ -8,7 +8,7 @@ A lightweight sync job and support bot built on Google Gemini (using the managed
 
 - **Setup & Local Runs**: See instructions below.
 - **Dockerfile**: Runs the main sync using `docker run -e API_KEY=... main.py` and exits cleanly.
-- **Link to Daily Job Logs**: [Cloud Sync Logs Dashboard](https://dashboard.render.com/cron/optibot-sync-job/logs) (or equivalent platform dashboard where the container scheduled run output is captured).
+- **Link to Daily Job Logs**: [Railway Job Logs Dashboard](https://railway.com/project/f830acb9-575d-430f-860b-f659ac6fa45e/service/5328786e-361a-43be-8427-f1e006f50cd4?environmentId=a57331f4-507c-4619-9bc3-2ae88a41991a) (or equivalent platform dashboard where the container scheduled run output is captured).
 - **Sanity Check Screenshot**: Refer to [screenshot.png](screenshot.jpg) in the repository root showing the correct grounded response with citations.
 
 ---
